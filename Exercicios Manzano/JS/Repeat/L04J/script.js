@@ -7,4 +7,4 @@ do {
     quociente++
 } while (dividendo >= divisor)
 
-console.log("O resultado da divisão é " + quociente)
+alert("O resultado da divisão é " + quociente)
